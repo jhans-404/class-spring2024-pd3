@@ -2,6 +2,7 @@
 
 ## Our Class Repos:
 - [Abigail M](https://github.com/abigailm124/csa-mp3-pd3/tree/main)
+- [Arzo A](https://github.com/arzoa1/CODE3)
 - [Binafsha B](https://github.com/httpsb1na/csampa3/tree/38549cd5baf4626dd710d7be656f7d50b5c33eb9/frq-solutions/q4)
 - [David L](https://github.com/dacode21/School/tree/main/frq%20solutions)
 - [Emily M](https://github.com/E0940/csa-mp3-ap2024)
@@ -17,3 +18,4 @@
 - [Solina L](https://github.com/L5462/CSA-MP3)
 - [Terry Y](https://github.com/TeryYe/Ap-csa-frq)
 - [WenHanZhu ](https://github.com/wenhanz235/csa-mp3)
+- [Zhihan L](https://github.com/zhihanl3/pd3/tree/main/frqs%20solutions)
