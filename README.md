@@ -6,9 +6,11 @@
 |[Abigail M](https://github.com/abigailm124/csa-mp3-pd3/tree/main)|[My Site](https://abigailm124.github.io)|
 |[Arzo A](https://github.com/arzoa1/CODE3)|[My Site](https://arzoa1.github.io)|
 |[Binafsha B](https://github.com/httpsb1na/csampa3/tree/38549cd5baf4626dd710d7be656f7d50b5c33eb9/frq-solutions/q4)|[My Site](https://httpsb1na.github.io)|
+|[Chelsea L](https://github.com/w1iang/2024-frqs)|[My Site](https://w1iang.github.io)|
 |[David L](https://github.com/dacode21/School/tree/main/frq%20solutions)|[My Site](https://dacode21.github.io)|
-|[Emily M](https://github.com/E0940/csa-mp3-ap2024)|[My Site](https://E0940.github.io)|
+|[Eisa N](https://github.com/EisaNasar/CSA-PD3)|[My Site](https://EisaNasar.github.io)|
 |[Emily G](https://github.com/EmilyG101/csa-mp3)|[My Site](https://EmilyG101.github.io)|
+|[Emily M](https://github.com/E0940/csa-mp3-ap2024)|[My Site](https://E0940.github.io)|
 |[Henry C](https://github.com/hchennnnn/cs-a)|[My Site](https://hchennnnn.github.io)|
 |[Kevin W](https://github.com/KevinW5/Csa-mp3)|[My Site](https://KevinW5.github.io)|
 |[Leo Z](https://github.com/leoz30/fdrhs-apcsa-peiod-3-/tree/folder/frq%20solutions)|[My Site](https://leoz30.github.io)|
